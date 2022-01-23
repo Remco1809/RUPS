@@ -8,7 +8,9 @@ but this was mainly used to compare the differences between the depth images fro
 This to try and figure out the difference between the two and why one works with Open3D and the other one not
 
 For downloading Open3D please refer to the Open3D website:
+
 http://www.open3d.org/docs/release/
 
 Or the Open3D github:
+
 https://github.com/isl-org/Open3D
