@@ -9,5 +9,6 @@ This to try and figure out the difference between the two and why one works with
 
 For downloading Open3D please refer to the Open3D website:
 http://www.open3d.org/docs/release/
+
 Or the Open3D github:
 https://github.com/isl-org/Open3D
